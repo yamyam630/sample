@@ -1,6 +1,6 @@
 def hello
   p "hello, world."
-  p "hello agein"
+  p "hello again"
 end
 
 hello
